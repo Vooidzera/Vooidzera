@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://github.com/Vooidzera/Vooidzera/blob/main/header(1).svg" width="500" alt="Caique Rufino" />
+<img src="https://raw.githubusercontent.com/Vooidzera/Vooidzera/main/header(1).svg" width="500" alt="Caique Rufino" />
 
 ### <font color="#E9D5FF">Software Developer · AI · Automation · Systems</font>
 
