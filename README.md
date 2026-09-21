@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="<img src="https://raw.githubusercontent.com/Vooidzera/Vooidzera/refs/heads/main/header.svg" width="100%" alt="Caique Rufino" />" width="100%" alt="Caique Rufino" />
+<img src="<img src="https://raw.githubusercontent.com/Vooidzera/Vooidzera/refs/heads/main/header.svg" width="100%" alt="Caique Rufino" />" 
 
 <br><br>
 
