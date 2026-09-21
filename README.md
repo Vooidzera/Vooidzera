@@ -1,15 +1,8 @@
 <div align="center">
 
-<table width="100%">
-<tr>
-<td align="center" bgcolor="#7C3AED">
+<img src="<img src="https://raw.githubusercontent.com/Vooidzera/Vooidzera/refs/heads/main/header.svg" width="100%" alt="Caique Rufino" />" width="100%" alt="Caique Rufino" />
 
-<br>
-
-<img src="https://raw.githubusercontent.com/Vooidzera/Vooidzera/main/header(1).svg" width="500" alt="Caique Rufino" />
-
-### <font color="#E9D5FF">Software Developer · AI · Automation · Systems</font>
-
+<br><br>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caique-rufino-283886108/">
@@ -22,7 +15,6 @@
     <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" height="42" alt="Instagram">
   </a>
 </p>
-</table>
 
 </div>
 
