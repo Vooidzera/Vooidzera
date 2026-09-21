@@ -6,13 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/caique-rufino-283886108/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" height="42" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
+  &nbsp;
   <a href="https://github.com/Vooidzera">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" height="42" alt="GitHub">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub">
   </a>
+  &nbsp;
   <a href="https://www.instagram.com/rufinoo.exe/">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=flat-square&logo=instagram&logoColor=white" height="42" alt="Instagram">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram">
   </a>
 </p>
 
