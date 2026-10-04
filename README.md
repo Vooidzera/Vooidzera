@@ -66,8 +66,135 @@ Experiência com desenvolvimento e manutenção de aplicações.
 
 <br>
 
+<!-- PROJETO EM DESTAQUE -->
+
 <table width="100%">
 <tr>
+<td width="100%" valign="top" bgcolor="#1A1A1A">
+
+<br>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/DEPLOY-D63384?style=flat-square&logoColor=white" />
+
+### ISIS AI
+
+**Ecossistema de automação · C2G Automações**
+
+<br>
+
+Atendente totalmente autônoma construída sobre IA generativa, combinando um agente RAG com capacidade de gerar respostas próprias a partir de documentos descritivos no banco de dados.
+
+Realiza atendimento completo, com autonomia para marcar, alterar e cancelar reuniões, interação por áudio e memória de longo prazo — reconhecendo o cliente pelo número de contato.
+
+Conta com tecnologia *parser chain*, permitindo que o cliente configure o formato das respostas (curtas, resumidas ou completas), além de envio automático de e-mails.
+
+<br>
+
+`IA Generativa` · `RAG` · `Memória de Longo Prazo` · `Voz` · `Parser Chain` · `Automação`
+
+<br><br>
+
+<a href="https://www.c2gautomacoes.com.br/">
+<img src="https://img.shields.io/badge/VER%20C2G%20AUTOMAÇÕES-D63384?style=for-the-badge&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<!-- GRID DE PROJETOS -->
+
+<table width="100%">
+<tr>
+
+<td width="50%" valign="top" bgcolor="#24133D">
+
+<br>
+
+<div align="center">
+
+### CINEMACLUB
+
+<img src="https://img.shields.io/badge/DEPLOY-FF9D00?style=flat-square&logoColor=white" />
+
+<br><br>
+
+<img src="./assets/cinemaclub-logo.png" width="150" alt="CinemaClub" />
+
+<br><br>
+
+Aplicação voltada para o universo do cinema, com identidade visual própria e experiência desenvolvida para o projeto.
+
+<br><br>
+
+<a href="https://cinema-club-gules.vercel.app/login">
+<img src="https://img.shields.io/badge/VER%20DEPLOY-FF9D00?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+</td>
+
+<td width="50%" valign="top" bgcolor="#1A1A1A">
+
+<br>
+
+<div align="center">
+
+### AUTOMAÇÃO DE POSTS
+
+<img src="https://img.shields.io/badge/DEPLOY-D63384?style=flat-square&logoColor=white" />
+
+<br><br>
+
+Automação que gera textos a partir de contexto e publica nas redes sociais no horário definido pelo cliente. Atualmente rodando no LinkedIn, com suporte planejado para outras redes e geração de vídeos em desenvolvimento.
+
+Integração via API diretamente com a rede social.
+
+<br><br>
+
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:7407782001514041344/">
+<img src="https://img.shields.io/badge/VER%20EXEMPLO-D63384?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top" bgcolor="#064E3B">
+
+<br>
+
+<div align="center">
+
+### ATENDENTE VIRTUAL · CLÍNICA DR. TATI GABBI
+
+<img src="https://img.shields.io/badge/DEPLOY-10B981?style=flat-square&logoColor=white" />
+
+<br><br>
+
+Chatbot inteligente para atendimento inicial, com cadastro automático de novos clientes no CRM, instruções sobre procedimentos da clínica e agendamento de consultas.
+
+</div>
+
+<br>
+
+</td>
 
 <td width="50%" valign="top" bgcolor="#161616">
 
@@ -101,29 +228,28 @@ Projeto principal atualmente em desenvolvimento.
 
 </td>
 
-<td width="50%" valign="top" bgcolor="#24133D">
+</tr>
+<tr>
+
+<td width="100%" valign="top" bgcolor="#161616" colspan="2">
 
 <br>
 
 <div align="center">
 
-### CINEMACLUB
+### SUCHEF — GESTÃO DE RESERVAS
 
-<img src="https://img.shields.io/badge/PROJETO-FF9D00?style=flat-square&logoColor=white" />
-
-<br><br>
-
-<img src="./assets/cinemaclub-logo.png" width="150" alt="CinemaClub" />
+<img src="https://img.shields.io/badge/EM%20DESENVOLVIMENTO-6B7280?style=flat-square&logoColor=white" />
 
 <br><br>
 
-Aplicação voltada para o universo do cinema, com identidade visual própria e experiência desenvolvida para o projeto.
+MVP para gestão de reservas em restaurantes de renome. Permite ao cliente reservar mesas, informar preferências e alergias, com confirmação por e-mail.
 
-<br><br>
+Inclui versão para o restaurante (configuração de mesas, gestão financeira, controle de gorjetas) e dashboard com indicadores de pratos mais pedidos, horários e dias de maior procura.
 
-<a href="https://github.com/Vooidzera/CinemaClub">
-<img src="https://img.shields.io/badge/VER%20PROJETO-FF9D00?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<br>
+
+`Reservas Online` · `Dashboard` · `Gestão Financeira`
 
 </div>
 
@@ -193,10 +319,10 @@ Quando existe uma aplicação real para inteligência artificial, integro IA ao 
 
 **Universidade Paulista**  
 Engenharia de Automação e Controle  
-`2018 — 2022`
+`2018 — não concluído`
 
 **ETEC Lauro Gomes**  
-Mecatrônica  
+Mecatrônica (superior técnico)  
 `2014 — 2016`
 
 ---
