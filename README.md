@@ -135,7 +135,7 @@ Aplicação voltada para o universo do cinema, com identidade visual própria e 
 
 <br><br>
 
-<a href="https://cinema-club-gules.vercel.app/login">
+<a href="cinema-club-gules.vercel.app">
 <img src="https://img.shields.io/badge/VER%20DEPLOY-FF9D00?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 
