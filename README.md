@@ -135,8 +135,8 @@ Aplicação voltada para o universo do cinema, com identidade visual própria e 
 
 <br><br>
 
-<a href="[cinema-club-gules.vercel.app](https://cinema-club-gules.vercel.app/demo/leaderboard)">
-<img src="https://img.shields.io/badge/VER%20DEPLOY-FF9D00?style=for-the-badge&logo=vercel&logoColor=white" />
+<a href="https://cinema-club-gules.vercel.app/demo/leaderboard" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/VER%20DEPLOY-FF9D00?style=for-the-badge&logo=vercel&logoColor=white" alt="Ver deploy CinemaClub" />
 </a>
 
 </div>
